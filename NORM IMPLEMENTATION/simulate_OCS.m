@@ -1,7 +1,7 @@
 clc
 clear all
 %%%%%---This code finds the optimal conservation strategy for each characteristic network---%%%%%
-%%%%%---This code requires function network_detail.m for compilation---%%%%%
+
 % param a: intrinsic growth rate
 % param h: handling time
 % param k1: degree of pollinator

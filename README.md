@@ -19,4 +19,4 @@ simulate_model_nn.m simulates the model dynamics for different cases such as wit
 simulate_OCS.m computes the optimal set essential to prevent a community collapse as obtained using the Optimal conservation strategy
 
 
-reduced stability_SMN.m calculates the stability of the reduced socio-mutualistic model
+reduced stability_SMN.m calculates the stability of the reduced socio-mutualistic model after analytically deriving expressions.
